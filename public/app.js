@@ -17,7 +17,7 @@ const questions = [
 ];
 
 const labels = [
-  ["Gen Z","Millennials","Gen X","Boomers"],
+  ["Gen Z (1997–2012)","Millennials (1981–1996)","Gen X (1965–1980)","Boomers (1946–1964)"],
   ["DM","Messenger","SMS","Klic"],
   ["Streaming","YouTube","MP3","Radio"],
   ["TikTok","Portali","TV+splet","TV"],
